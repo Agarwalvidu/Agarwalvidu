@@ -1,16 +1,25 @@
 ### Hi there 👋
+# I'm Vidushi Agarwal ✨
 
-<!--
-**Agarwalvidu/Agarwalvidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web Development and community building .
 
-Here are some ideas to get you started:
+## 🌐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on a project for hackathon.
+- 🌱 Learning Backend Development.
+- 👯 Looking to collaborate on frontend projects.
+- 💬 Ask me about anything.
+- 📫 How to reach me: vidushiagg2004@gmail.com
+
+## 🚀 Skills
+
+- Programming Languages: C++, Html, CSS, Javascript, React.js, Node.js, Vite
+- Tools & Technologies: Figma, Blender, Canva
+
+## 🌟 Fun Facts
+
+- 🎵 I love Honey Singh raps.
+- 📚 Reading Annie Frank.
+
+Let's connect and build awesome things together! 🌈
+
