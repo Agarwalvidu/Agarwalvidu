@@ -37,7 +37,7 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/agarwalvidu/agarwalvidu/output/snake.svg" alt="Snake animation" />
 
 ###
 
