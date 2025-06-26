@@ -28,10 +28,6 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agarwalvidu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 
 ###
 
@@ -47,7 +43,6 @@ Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web De
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
