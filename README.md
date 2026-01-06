@@ -1,73 +1,27 @@
-<h1 align="center">Hi, I'm Vidu 👋</h1>
+### Hi there 👋
+# I'm Vidushi Agarwal ✨
 
-<p align="center">
-  <b>Full-Stack Software Engineer</b><br/>
-  🚀 Turning ideas into products • 🧪 Exploring new tech stacks
-</p>
+Welcome to my GitHub profile! 🚀 I'm a B.Tech student, passionate about Web Development and community building .
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agarwalvidu&style=flat&color=blue" />
-</p>
+## 🌐 About Me
 
----
+- 🔭 Currently working in Rippling as a Software Engineering Intern.
+- 👯 Looking for people interested in starting a new college society in their college.
+- 💬 You can reach out to me to seek help in any domain.
+- 📫 How to reach me: vidushiagg2004@gmail.com
 
-## 🧠 About Me
+## 🚀 Skills
 
-- 💻 Full-stack developer with growing interest in **Infrastructure & Systems**
-- 💼 Software Engineering Intern at **Rippling**
-- 🌱 Currently learning **Machine Learning, Web Infra & AWS**
-- 🤝 Strong believer in **open-source collaboration**
+- Programming Languages: C++, Javascript, ReactJs, NextJs, NodeJs, ExpressJs
+- Tools & Technologies: Blender, Buildkite, Figma, Canva
+###
 
----
+<div align="justify-content">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agarwalvidu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agarwalvidu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🏆 Achievements
+###
 
-- 🥇 Winner of **SIH** (2024 & 2025)
-- 🚀 Founder of **TechNeeds India**
-- 🎓 **NXP Semiconductor Scholar**
-- 🏅 Winner of **ITTCP 2024**
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,python,java,aws,docker,kubernetes,terraform&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Agarwalvidu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwalvidu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Agarwalvidu&theme=onedark&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Agarwalvidu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>⭐ Feel free to explore my repositories and collaborate!</i>
-</p>
+Let's connect and build awesome things together! 🌈
