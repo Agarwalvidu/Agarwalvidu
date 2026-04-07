@@ -77,7 +77,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="100" height="100" />
 </a>
 <a href="https://buildkite.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/buildkite.svg" alt="buildkite" width="100" height="100" />
+  <img src="https://img.shields.io/badge/Buildkite-14CC80?style=for-the-badge&logo=buildkite&logoColor=white" alt="buildkite" height="40" />
 </a>
 </p>
 
