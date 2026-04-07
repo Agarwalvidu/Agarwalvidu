@@ -22,7 +22,7 @@
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="100%" />
     </td>
     <td valign="middle" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Agarwalvidu&layout=pie&theme=blueberry&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Agarwalvidu&theme=blueberry&hide_border=true&card_width=400" width="100%" />
     </td>
   </tr>
 </table>
