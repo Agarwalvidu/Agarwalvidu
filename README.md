@@ -50,8 +50,6 @@
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" alt="c"/> </a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="100"  alt="c"/> </a>
    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">  <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif"  alt="Node" width="100"/> </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="110" alt="Firebase"/> </a>
-   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="90" alt="Redux"/> </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="130"  alt="Git"/> </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100"
