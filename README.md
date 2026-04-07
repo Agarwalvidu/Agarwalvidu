@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Agarwalvidu&layout=compact&theme=blueberry&hide_border=true" />
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
   <a href="https://Agarwalvidu.dev/">
