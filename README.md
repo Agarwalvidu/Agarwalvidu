@@ -58,10 +58,6 @@
       height="100" />
    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="80" height="80" />
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100" />
-   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/Agarwalvidu/Agarwalvidu/blob/main/the_json.png?raw=true" alt="JSON" width='90' />
-   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" />
-   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" />
-   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="100" width="100" />
 </p>
 
 <p  align="center">
