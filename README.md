@@ -14,7 +14,11 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                    
 <br>
-  
+  <h3>✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
   <a href="https://Agarwalvidu.dev/">
@@ -56,6 +60,15 @@
       height="100" />
    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="80" height="80" />
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100" />
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100" />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100" />
+</a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="100" height="100" />
+</a>
 </p>
 
 <p  align="center">
@@ -76,7 +89,11 @@
   
 <h3>Let the Snake eat my contributions</h3>
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/Agarwalvidu/Agarwalvidu/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agarwalvidu/Agarwalvidu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agarwalvidu/Agarwalvidu/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Agarwalvidu/Agarwalvidu/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <p  align="center">
