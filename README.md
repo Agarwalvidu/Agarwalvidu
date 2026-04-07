@@ -14,10 +14,17 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                    
 <br>
-  <h3>✍️ Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<h3>✍️ Random Dev Quote & Top Languages</h3>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Agarwalvidu&layout=compact&theme=blueberry&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Agarwalvidu&layout=compact&theme=blueberry&hide_border=true" />
 <h3> 📈 Contribution Statistics</h3>
 <p align="left">
