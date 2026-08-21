@@ -120,9 +120,9 @@
  <a href="https://x.com/Vidushit143" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Vidushi" height="30" width="40" /></a>
-  <a href="https://instagram.com/laksh.ay_" target="_blank"><img align="center"
+  <a href="https://instagram.com/agarwal.vidu" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="laksh.ay_" height="30" width="40" /></a>
+      alt="agarwal.vidu" height="30" width="40" /></a>
   
 </p>
      <p  align="center">
